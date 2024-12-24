@@ -1,7 +1,7 @@
 ## Get your colors right before you design anything on the page
 
 colors make a huge difference in design one Inspiration to take a look at
-how colors are being used in [neon homebage](https://neon.tech/)
+how colors are being used in [neon homepage](https://neon.tech/)
 
 define your gray color well
 
